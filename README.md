@@ -13,11 +13,10 @@ Imagine 💭 you want to build a super cool **LEGO house 🏠**. Each piece of L
 
 React is like **LEGO for websites or apps**. It helps you build parts of a website by snapping together pieces (called **components**). Instead of building a whole website from scratch, React lets you create small parts like buttons, menus, or images, and then combine them to create the full website.
 
-<<<<<<< HEAD
+
 ![React Lego Analogy Image](./Assets/react.png) <!-- Add a suitable image here -->
-=======
-![React Lego Analogy Image](assets/react.png) <!-- Add a suitable image here -->
->>>>>>> 0dfc02b1c35df26ea2521f0cc0bf1735f979383a
+
+
 
 ### Why is React Useful? 🤔
 
