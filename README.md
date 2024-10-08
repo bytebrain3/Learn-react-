@@ -36,24 +36,24 @@ To get started with this project, you’ll need to have **Node.js** installed. F
    ```bash
    node -v    # This should print the installed Node.js version
    npm -v     # This should print the installed npm version
-   ```
+   
 then type
    ```bash
         npm create vite@latest # for npm 
         pmpm create vite@latest # for pnpm
-    ```
+    
 
 
 ## Install dependent 
     ```bash
     npm install 
     pmpm install
-   ```
+   
 ## Run server
     ```bash
        npm run dev
        or pnpm run dev
-    ```
+    
 open your browser and path this url 
 http://localhost:5173
 
